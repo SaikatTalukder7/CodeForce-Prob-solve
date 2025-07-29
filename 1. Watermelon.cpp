@@ -15,7 +15,7 @@ int main()
 }
 
 /*
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main()
@@ -33,4 +33,5 @@ int main()
         cout << "NO, it can't be divided into two even positive parts." << endl;
     }
     return 0;
-}*/
+}
+*/
