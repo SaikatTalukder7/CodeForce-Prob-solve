@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main() {
+int main() 
+{
     int m, n;
     cin >> m >> n;
     cout << (m * n) / 2 << endl;
@@ -12,7 +13,8 @@ int main() {
 #include <bits/stdc++.h>
 using namespace std;
 
-int main() {
+int main() 
+{
     int m, n;
 
     cout << "Enter the number of rows (m): ";
@@ -28,3 +30,4 @@ int main() {
     return 0;
 }
 */
+
